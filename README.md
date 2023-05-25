@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-**PL-AYz/PL-AYz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+# I am AY Asemota
 
 - 🔭 I’m currently working on AYz Hub
 - 🌱 I’m currently learning Next.JS
